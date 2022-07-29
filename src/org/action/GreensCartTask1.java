@@ -29,8 +29,8 @@ public class GreensCartTask1 {
     
     System.out.println("dvbnsm");
     
-    
-    
+    System.out.println("ghjk");
+    System.out.println("jdjhdjdj");
     
     
     
